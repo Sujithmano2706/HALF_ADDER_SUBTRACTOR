@@ -82,8 +82,8 @@ endmodule
 <img width="1667" height="725" alt="Screenshot 2025-11-23 152131" src="https://github.com/user-attachments/assets/d44b1565-21ff-47a1-b107-2bd1bf40c67e" />
 
 **Output/TIMING Waveform**
-<img width="1920" height="1080" alt="Screenshot 2025-11-23 151847" src="https://github.com/user-attachments/assets/e0ff8274-2173-4171-ba12-297e21d88087" />
-<img width="1920" height="1080" alt="Screenshot 2025-11-23 152231" src="https://github.com/user-attachments/assets/0eb850c6-013c-425b-beab-07aa07e30799" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 111613" src="https://github.com/user-attachments/assets/9f785a38-daf4-4cd9-b7df-12d3d0351092" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 112811" src="https://github.com/user-attachments/assets/c7834a74-8be4-49f7-a2cd-7f4465805b3b" />
 
 **Result:**
 Thus the Half Adder and Half Subtractor are studied and the truth tables are verified
